@@ -1,0 +1,6 @@
+data/
+saved_models/
+images/
+__pycache__/
+.ipynb_checkpoints
+.vscode/
